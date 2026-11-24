@@ -27,3 +27,11 @@ h3{
 p{
     font-family: "Nunito", sans-serif;
 }
+
+
+.maps{
+    /* when you size an iframe, you have to do both width
+    and height */
+    width:50vw;
+    height:30vw;
+}
